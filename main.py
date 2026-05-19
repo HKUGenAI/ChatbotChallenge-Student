@@ -19,7 +19,7 @@ def rag_answer(question: str) -> str:
     Input: A single question (string)
     Output: A single answer (string)
     """
-
+    
     #Implement your chatbot logic here.
     answer = ""
     return answer
